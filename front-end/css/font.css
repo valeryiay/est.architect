@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Light Italic'), local('CeraPRO-LightItalic'), url('../font/CeraPRO-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Regular Italic'), local('CeraPRO-RegularItalic'), url('../font/CeraPRO-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Bold Italic'), local('CeraPRO-BoldItalic'), url('../font/CeraPRO-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Bold'), local('CeraPRO-Bold'), url('../font/CeraPRO-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Regular'), local('CeraPRO-Regular'), url('../font/CeraPRO-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Thin'), local('CeraPRO-Thin'), url('../font/CeraPRO-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Light'), local('CeraPRO-Light'), url('../font/CeraPRO-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Medium Italic'), local('CeraPRO-MediumItalic'), url('../font/CeraPRO-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Thin Italic'), local('CeraPRO-ThinItalic'), url('../font/CeraPRO-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Black Italic'), local('CeraPRO-BlackItalic'), url('../font/CeraPRO-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Medium'), local('CeraPRO-Medium'), url('../font/CeraPRO-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cera PRO';
+    src: local('Cera PRO Black'), local('CeraPRO-Black'), url('../font/CeraPRO-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu/black" transform="translate(-12.000000, -12.000000)" fill="#979797">
+            <path d="M12,12 L14,12 L14,14 L12,14 L12,12 Z M12,26 L14,26 L14,28 L12,28 L12,26 Z M12,19 L14,19 L14,21 L12,21 L12,19 Z M19,12 L21,12 L21,14 L19,14 L19,12 Z M19,26 L21,26 L21,28 L19,28 L19,26 Z M19,19 L21,19 L21,21 L19,21 L19,19 Z M26,12 L28,12 L28,14 L26,14 L26,12 Z M26,26 L28,26 L28,28 L26,28 L26,26 Z M26,19 L28,19 L28,21 L26,21 L26,19 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
